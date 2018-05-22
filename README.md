@@ -1,6 +1,7 @@
 # eduhackathon2017web
 
 > Hackathon 2017 web service
+> Project was never completed to full extent. There is room for improvements and there are not implemented functions.
 
 ## Build Setup
 
